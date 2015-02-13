@@ -43,3 +43,9 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'nokogiri', '~> 1.6.6.2'
+
+gem 'twitter-bootstrap-rails'
+
+
+
